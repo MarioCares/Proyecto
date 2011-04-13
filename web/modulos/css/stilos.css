@@ -1,0 +1,14 @@
+root { 
+    display: block;
+}
+
+input{
+    text-align: right;
+}
+
+.buscar{
+    background-image:url(../imagenes/lupa.png);
+    background-repeat:no-repeat;
+    height:36px; width:36px;
+    background-position:center;
+}
